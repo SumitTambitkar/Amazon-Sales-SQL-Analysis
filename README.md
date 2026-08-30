@@ -271,5 +271,5 @@ The following advanced analyses were performed:
 Amazon-Sales-SQL-Analysis
 │
 ├── Amazon_Sales_SQL_Analysis.sql
-├── amazon_sales_data.csv
+├── amazon_sales_dataset.csv
 └── README.md
