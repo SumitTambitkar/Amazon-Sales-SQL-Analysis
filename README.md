@@ -1,5 +1,7 @@
 # Amazon Sales SQL Analysis
 
+![Amazon Sales SQL Analysis](YAHAN_COPIED_LINK_PASTE_KARO)
+
 ## Project Overview
 
 This project analyzes Amazon sales data using SQL to identify sales trends, product performance, regional performance, customer behavior, discount impact, and revenue patterns.
