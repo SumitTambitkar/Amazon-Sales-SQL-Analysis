@@ -1,6 +1,6 @@
 # Amazon Sales SQL Analysis
 
-![Amazon Sales SQL Analysis]([YAHAN_COPIED_LINK_PASTE_KARO](https://github.com/SumitTambitkar/Amazon-Sales-SQL-Analysis/blob/main/amazon_sales_sql_thumbnail.png?raw=true))
+![Amazon Sales SQL Analysis](https://github.com/SumitTambitkar/Amazon-Sales-SQL-Analysis/blob/main/amazon_sales_sql_thumbnail.png?raw=true)
 
 ## Project Overview
 
